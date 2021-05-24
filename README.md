@@ -1,3 +1,6 @@
+#### Hello my name is Mamoun Hussein and here is my [Github Portofolio](https://github.com/mamoon100)
+
+![Grouth mind](https://www.strengthscope.com/wp-content/uploads/2021/01/Growth-v-fixed-mindset-t.jpg)
 # Grouth mindset
 ##### The **Grouth mindset** meaning is that evry day that you will try to learn somthing new no matter how good you are and no matter how ~~perfect~~  your work is.
 --------
