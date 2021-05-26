@@ -2,6 +2,7 @@
 
 # Table of Contents
 
-1. [Grouth mindset](./Grouth.md)
+1. [Grouth mindset](Grouth.md)
 2. [Markdown](markdown.md)
 3. [Git version](git.md)
+4. [WireFrame](wireframe.md)
