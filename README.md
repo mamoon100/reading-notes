@@ -7,3 +7,4 @@
 |3. [Git version](git.md)|
 |4. [WireFrame](wireframe.md)|
 |5. [Javascript Control Flow](javascript.md)|
+|6. [Javascript loop] (loop.md)|
