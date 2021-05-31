@@ -8,3 +8,5 @@
 |4. [WireFrame](wireframe.md)|
 |5. [Javascript Control Flow](javascript.md)|
 |6. [Javascript loop](loop.md)|
+|7. [Javascript Function](function.md)|
+|8. [Css](Css.md)|
