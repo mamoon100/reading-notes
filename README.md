@@ -3,7 +3,7 @@
 #### This Page Contain Reading-Notes for LTUC courses 
 --------------
 ## Table of Contents
-|#|Code 102|Code 201|
+|# |Code 102 |Code 201 |
 |----|-----|-----|
 |1.| [Grouth mindset](Grouth.md)| [Day1 (To be add)]() |
 |2.| [Markdown](markdown.md)| [Day2 (To be add)]() |
