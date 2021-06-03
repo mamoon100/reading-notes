@@ -5,6 +5,10 @@
 ## Table of Contents
 |# |Code 102 |Code 201 |
 |----|-----|-----|
+
+
+| # 	| Code 102 	| Code 201 	|
+|---	|----------	|----------	|
 |1.| [Grouth mindset](Grouth.md)| [Day1 (To be add)]() |
 |2.| [Markdown](markdown.md)| [Day2 (To be add)]() |
 |3.| [Git version](git.md) | [Day3 (To be add)]() |
@@ -20,22 +24,3 @@
 |13.|  | [Day13 (To be add)]() |
 |14.|  | [Day14 (To be add)]() |
 |15.|  | [Day15 (To be add)]() |
-
-
-| # 	| Code 102 	| Code 201 	|
-|---	|----------	|----------	|
-|1	|          	|          	|
-|2  	|          	|          	|
-|  3 	|          	|          	|
-|  4 	|          	|          	|
-|  5 	|          	|          	|
-|   6	|          	|          	|
-| 7  	|          	|          	|
-|  8 	|          	|          	|
-|  9 	|          	|          	|
-|  10 	|          	|          	|
-|   11	|          	|          	|
-|   12	|          	|          	|
-|  13 	|          	|          	|
-|   14	|          	|          	|
-| 15    |               |               |
