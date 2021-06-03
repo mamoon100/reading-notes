@@ -3,9 +3,6 @@
 #### This Page Contain Reading-Notes for LTUC courses 
 --------------
 ## Table of Contents
-|# |Code 102 |Code 201 |
-|----|-----|-----|
-
 
 | # 	| Code 102 	| Code 201 	|
 |---	|----------	|----------	|
