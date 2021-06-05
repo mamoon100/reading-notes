@@ -20,4 +20,4 @@
 |12|  | [Day12 (To be add)]() |
 |13|  | [Day13 (To be add)]() |
 |14|  | [Day14 (To be add)]() |
-|15|  | [Day15 (To be add)]() |..
+|15|  | [Day15 (To be add)]() |
