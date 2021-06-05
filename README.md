@@ -3,6 +3,7 @@
 #### This Page Contain Reading-Notes for LTUC courses 
 --------------
 ## Table of Contents
+
 | # 	| Code 102 	| Code 201 	|
 |---	|----------	|----------	|
 |1| [Grouth mindset](./Code-102/Grouth.md)| [Introductory HTML and JavaScript](./Code-201/class-01.md) |
@@ -19,4 +20,4 @@
 |12|  | [Day12 (To be add)]() |
 |13|  | [Day13 (To be add)]() |
 |14|  | [Day14 (To be add)]() |
-|15|  | [Day15 (To be add)]() |
+|15|  | [Day15 (To be add)]() |..
