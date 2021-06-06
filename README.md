@@ -3,10 +3,12 @@
 #### This Page Contain Reading-Notes for LTUC courses 
 --------------
 ## Table of Contents
+
+
 | # 	| Code 102 	| Code 201 	|
 |---	|----------	|----------	|
 |1| [Grouth mindset](./Code-102/Grouth.md)| [Introductory HTML and JavaScript](./Code-201/class-01.md) |
-|2| [Markdown](./Code-102/markdown.md)| [Day2 (To be add)]() |
+|2| [Markdown](./Code-102/markdown.md)| [Basics of HTML, CSS & JS](./Code-201/class-02.md) |
 |3| [Git version](./Code-102/git.md) | [Day3 (To be add)]() |
 |4| [WireFrame](./Code-102/wireframe.md) | [Day4 (To be add)]() |
 |5| [Javascript Control Flow](./Code-102/javascript.md) | [Day5 (To be add)]() |
