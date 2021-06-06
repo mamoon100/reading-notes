@@ -25,7 +25,7 @@
 > The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element.
 
 > CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be
-![css Image](.https://raw.githubusercontent.com/mamoon100/reading-notes/main/img/css.png)
+![css Image](https://raw.githubusercontent.com/mamoon100/reading-notes/main/img/css.png)
 
 ----
 
