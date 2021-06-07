@@ -17,6 +17,8 @@ where each point needs to be identified by a section number.
 * Definition lists are made up of a set of terms along with the definitions for each of those terms.
 
 > **Example:**
+
+
 ```
 <html>
 <head>
