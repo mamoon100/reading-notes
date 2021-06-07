@@ -17,6 +17,7 @@
 
 * ``<h1>`` is used for main headings, ``<h2>`` is used for subheadings If there are further sections under the subheadings then the ``<h3>`` element is used, and so on...
 > Browsers display the contents of headings at different sizes. The contents of an ``<h1>`` element is the largest, and the contents of an ``<h6>`` element is the smallest. The exact size at which each browser shows the headings can vary slightly. Users can also adjust the size of text in their browser. You will see how to control the size of text, its color, and the fonts used when we come to look at CSS.
+
 ![Heading image](https://raw.githubusercontent.com/mamoon100/reading-notes/main/img/heading.png)
 -----
 ### Introducing CSS
@@ -25,6 +26,7 @@
 > The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element.
 
 > CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be
+
 ![css Image](https://raw.githubusercontent.com/mamoon100/reading-notes/main/img/css.png)
 
 ----
@@ -46,4 +48,5 @@
 
 ### Decisions and Loops 
 > Looking at a flowchart (for all but the most basic scripts), the code can take more than one path, which means the browser runs different code in different situations. In this chapter, you will learn how to create and control the flow of data in your scripts to handle different situations.
+
 ![if statment](https://raw.githubusercontent.com/mamoon100/reading-notes/main/img/if.png)
