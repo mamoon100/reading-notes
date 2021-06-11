@@ -40,7 +40,7 @@ The **color** property allows you to specify the **color** of text inside an ele
 
 3. **Color Names:** There are 147 predefined color names that are recognized by browsers. For example: *DarkCyan*.
 
-![Color image](./img/color.png)
+![Color image](https://raw.githubusercontent.com/mamoon100/reading-notes/main/img/color.png)
 
 -------
 
@@ -54,4 +54,4 @@ The font property is a shorthand property for:
 * **font-size/line-height**
 * **font-family**
 
-![font pic](./img/font.png)
+![font pic](https://raw.githubusercontent.com/mamoon100/reading-notes/main/img/font.png)
