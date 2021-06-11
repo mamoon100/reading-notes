@@ -54,4 +54,4 @@ The font property is a shorthand property for:
 * **font-size/line-height**
 * **font-family**
 
-![font pic](./img/font.png)
+![font pic](./img/font.png).
