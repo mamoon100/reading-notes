@@ -13,7 +13,7 @@
 |4| [WireFrame](./Code-102/wireframe.md) | [HTML Links, JS Functions, and Intro to CSS Layout](./Code-201/class-04.md) |
 |5| [Javascript Control Flow](./Code-102/javascript.md) | [Images, Color, Text](./Code-201/class-05.md) |
 |6| [Javascript loop](./Code-102/loop.md) | [Problem Domain, Objects, and the DOM](./Code-201/class-06.md) |
-|7| [Javascript Function](./Code-102/function.md) | [Day7 (To be add)]() |
+|7| [Javascript Function](./Code-102/function.md) | [Object-Oriented Programming, HTML Tables](./Code-201/class-07.md) |
 |8| [Css](./Code-102/Css.md) | [Day8 (To be add)]() |
 |9|  | [Day9 (To be add)]() |
 |10|  | [Day10 (To be add)]() |
