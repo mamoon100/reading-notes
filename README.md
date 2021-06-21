@@ -18,7 +18,7 @@
 |9|  | [Forms and JS Events](./Code-201/class-09.md) |
 |10|  | [Debugging](./Code-201/class-10.md) |
 |11|  | [Audio, Video, Images](./Code-201/class-11.md) |
-|12|  | [Day12 (To be add)]() |
+|12|  | [Chart.js, Canvas](./Code-201/class12.md) |
 |13|  | [Day13 (To be add)]() |
 |14|  | [Day14 (To be add)]() |
 |15|  | [Day15 (To be add)]() |
