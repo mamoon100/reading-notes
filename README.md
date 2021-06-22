@@ -19,6 +19,6 @@
 |10|  | [Debugging](./Code-201/class-10.md) |
 |11|  | [Audio, Video, Images](./Code-201/class-11.md) |
 |12|  | [Chart.js, Canvas](./Code-201/class-12.md) |
-|13|  | [Day13 (To be add)]() |
+|13|  | [Local Storage](./Code-201/class-13.md) |
 |14|  | [Day14 (To be add)]() |
 |15|  | [Day15 (To be add)]() |
