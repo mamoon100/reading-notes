@@ -20,5 +20,5 @@
 |11|  | [Audio, Video, Images](./Code-201/class-11.md) |
 |12|  | [Chart.js, Canvas](./Code-201/class-12.md) |
 |13|  | [Local Storage](./Code-201/class-13.md) |
-|14|  | [Day14 (To be add)]() |
+|14|  | [(CSS Transforms, Transitions, and Animations) &(What Google Learned About Teams)](./Code-201/class-14.md) |
 |15|  | [Day15 (To be add)]() |
