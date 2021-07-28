@@ -2,13 +2,13 @@
 
 #### Content:
 
-- [What is a Component?](#what-is-a-component?)
-- [What are the charactistics of a component?](#what-are-the-charactistics-of-a-component?)
-- [What are the advantages of using component based architecture?](#what-are-the-advantages-of-using-component-based-architecture?)
-- [What is props short for?](#what-is-props-short-for?)
-- [How are props used in React?](#how-are-props-used-in-react?)
-- [What is the flow of props?](#what-is-the-flow-of-props?)
-- [Thing i want to know more about](#thing-i-want-to-know-more-about)
+- [What is a Component?](#what-is-a-component)
+- [What are the charactistics of a component?](#what-are-the-charactistics-of-a-component)
+- [What are the advantages of using component based architecture?](#what-are-the-advantages-of-using-component-based-architecture)
+- [What is props short for?](#what-is-props-short-for)
+- [How are props used in React?](#how-are-props-used-in-react)
+- [What is the flow of props?](#what-is-the-flow-of-props)
+- [Thing i want to know more about](#things-i-want-to-know-more-about)
 
 #### What is a Component?
 
