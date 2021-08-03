@@ -67,4 +67,4 @@ by calling the method this.props.increment()
 
 ## Things I want to know more about
 
-1. i get throw somthing called this.setState,bind(this) and i want to know more about it.
+1. i get through something called `this.setState,bind(this)` and i want to know more about it.
