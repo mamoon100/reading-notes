@@ -32,7 +32,7 @@ NoSQL databases store data in documents rather than relational tables. According
 
 MongoDB stores data records as documents (specifically BSON documents) which are gathered together in collections. A database stores one or more collections of documents.
 
-## Which is more flexible - SQL or MongoDB? and why.
+## Which is more flexible - SQL or MongoDB? and why
 
 MongoDB is more flexible and ensures high and diverse data availability
 
