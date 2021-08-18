@@ -48,6 +48,6 @@ Diversity efforts are most successful when they’re driven by a commitment from
 
 Study after study in fields like organizational science, psychology and education indicate that diversity offers significant benefits for teams focused on creativity and innovation. According to Scott E. Page, professor of complex systems, political science and economics at the University of Michigan: "Diverse groups of people bring to organizations more and different ways of seeing a problem and, thus, faster/better ways of solving it."
 
-## Give an example of how a diverse company can serve a diverse user base or vise-versa.
+## Give an example of how a diverse company can serve a diverse user base or vise-versa
 
 Just as the example of a smoker who lives to be 100 does not disprove that smoking is bad for one’s health, anecdotes of companies that have succeeded in spite of homogeneity are not a counterpoint to the overwhelming evidence that diversity makes teams smarter and is linked to positive business outcomes.
