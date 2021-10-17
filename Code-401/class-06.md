@@ -4,7 +4,7 @@ What Is Inheritance?
 
 Let's talk back about our object of dog and bicycle and the way we say it could be done in OOP by creating class for each object, now imagine i want to say yes there is type and kind of bicycle but i want to set the normal bicycle other than for example race bicycle, the OOP allow us to make something called inheritance, it allow us to create class extend the original class.
 
-![example for inheritance](http://www.btechsmartclass.com/java/java_images/OOP-Concept-Inheritance.png)
+![example for inheritance](https://lh3.googleusercontent.com/proxy/aIP55FV8PHBYAOA9CgW_-EbyKdgUGVKTZg-2YycB6V6TSLWBi2h3lErUw076H17Tx_lQBbkLW0P8RxWCCUMrEtTAPigky7iAx_xQXznn9kYgEtedPqSdvye3Mwu2B8uABM0m)
 
 ```java
 class MountainBike extends Bicycle {
